@@ -2,6 +2,7 @@
 <manifest>
     <remote  name="github"
         fetch="https://github.com"
-        review="review.lineageos.org" />
+        review="review.lineageos.org"
+        revision="8d687257afc42886e019a77b39a520d47ff8ed28"/>
     <include name="android/default.xml" remote="lineage"/>
 </manifest>

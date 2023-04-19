@@ -4,5 +4,5 @@
         fetch="https://github.com/LineageOS"
         review="review.lineageos.org"
         revision="8d687257afc42886e019a77b39a520d47ff8ed28"/>
-    <include name="android/default.xml" remote="github"/>
+    <include name="lineage/default.xml"/>
 </manifest>

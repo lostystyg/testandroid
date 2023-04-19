@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote  name="lineage"
+        fetch="github.com/LineageOS"
+        review="review.lineageos.org" />
+    <include name="android/default.xml" remote="lineage"/>
+</manifest>

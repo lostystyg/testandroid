@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote  name="github"
-        fetch="https://github.com/LineageOS"
-        review="review.lineageos.org"
-        revision="8d687257afc42886e019a77b39a520d47ff8ed28"/>
     <include name="lineage_fork.xml"/>
 </manifest>
